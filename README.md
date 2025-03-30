@@ -10,18 +10,13 @@ Løpe dating nettside, lik tinder med swiping **stikkord** : **smart**, **raskt*
     - bilde
     - pace
     - løpesko
-    - vekt
 - brukere ser matchesens sine
 - brukere kan swipe for å få matches
 - chatte-funksjon
 
+## TODO
 - preferanser på pace, distanser, etc
 - strava-api
-
-sebastianjacmatt@gmail.com
-erik.g.ingebrigtsen@gmail.com
-tonylam750@outlook.com
-sander.eikenes2003@gmail.com
 
 ## Getting Started
 
